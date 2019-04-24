@@ -22,7 +22,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/kevinborras/metagopenoffice"
+	"github.com/gocaio/metagopenoffice"
 )
 
 func main() {
